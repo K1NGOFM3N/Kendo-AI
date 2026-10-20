@@ -1,0 +1,6 @@
+# Keep videos and results out of the repo (size limits + privacy)
+*.mp4
+*.mov
+*.MOV
+kendo_results/
+pose_landmarker_full.task
