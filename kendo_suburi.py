@@ -50,7 +50,7 @@ SKELETON = [(11, 12), (11, 13), (13, 15), (12, 14), (14, 16), (11, 23), (12, 24)
 # --- Tune these with real footage and an experienced sensei. -------------
 TOP_THRESH = 0.5      # hands this far above shoulders = furikaburi started
 STRIKE_THRESH = 0.4   # hands drop below this = swing came down
-GOOD_TOP = 0.8        # furikaburi should reach at least this high
+GOOD_TOP = 0.54        # furikaburi should reach at least this high
 STRIKE_LOW = -0.4     # strike stopping below this = too low for men
 STRIKE_HIGH = 0.35    # strike stopping above this = cut short
 GOOD_ELBOW = 150      # degrees; arms should be extended at the strike
